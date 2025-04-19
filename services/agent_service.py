@@ -1,5 +1,3 @@
-# services/agent_service.py
-
 import uuid
 from datetime import datetime
 from .user_service import add_agent_to_user, get_user_by_chat_id, get_user_agent_ids

@@ -1,5 +1,3 @@
-# utils/state_manager.py
-
 # Simple in-memory state manager
 user_states = {}
 

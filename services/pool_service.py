@@ -1,5 +1,3 @@
-# services/pool_service.py
-
 import requests
 import logging
 

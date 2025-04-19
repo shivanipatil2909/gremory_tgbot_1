@@ -1,5 +1,3 @@
-# main.py
-
 import logging
 import time
 from telegram_api.api import get_updates
