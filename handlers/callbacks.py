@@ -1,5 +1,3 @@
-# handlers/callbacks.py
-
 from telegram_api.api import answer_callback_query, edit_message_text
 from services.user_service import get_user_by_chat_id
 from services.agent_service import get_user_agents, get_user_portfolio
