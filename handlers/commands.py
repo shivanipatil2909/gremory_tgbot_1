@@ -1,5 +1,3 @@
-# handlers/commands.py
-
 from services.user_service import save_user, get_user_by_chat_id
 from telegram_api.api import send_message
 from telegram_api.buttons import create_main_menu_buttons
